@@ -56,7 +56,7 @@ Adicione a configuração do seu aplicativo a um arquivo .env na raiz do seu pro
 ```sh
 # Application  
 NAME_APP=Gateway Cat
-PORT_APP=8080
+PORT_APP=8000
 HOST_APP=gatewaycat.com.br
 SECRET_APP=1234567BrasilSecret
 VERSION_APP=1.0.0
