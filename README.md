@@ -1,4 +1,4 @@
-# Gatewy Cat 😸
+# Gateway Cat 😸
 ## Integração de Serviços e Pagamentos.
 
 [![R|RESENDE](https://i.ibb.co/XyT92vs/logo-r.png)](https://resende.dev.br/)
@@ -8,8 +8,8 @@ API de Pagamento Baseado em Soluções de serviços financeiro e entre outros.
 
 
 - Integração com Varios Gateway de Pagamento Brasileiro
-- Dashboard de Gerenciamento e Scripts com integrações terecerizada e-commerces & sistemas web 
-- ✨Saas✨
+- Dashboard de Gerenciamento e Scripts com integrações terecerizada e-commerces & sistemas web.
+- ✨ Saas ✨
 
 ## Características
 - API DE PAGAMENTO
@@ -21,14 +21,14 @@ API de Pagamento Baseado em Soluções de serviços financeiro e entre outros.
 GatewayCat usa vários projetos de código aberto para funcionar corretamente:
 
 - [Node.JS] - Eventos de E/S para o back-end
-- [Express] - Estrutura de aplicativo de rede rápida Express Node.JS 
+- [Express] - Estrutura de aplicativo de rede rápida e APIs Rest Full Express Node.JS 
+- [HandlebarsJS] - Modelos semânticos e Templating JavaScript
 - [jQuery] - jQuery é uma biblioteca livre que contém funções da linguagem de programação JavaScript
-- [HandlebarsJS] - Modelos semânticos
 - [Socket.IO] - Comunicação bidirecional e de baixa latência para todas as plataformas
-- [Sequelize] - Modelagem de dados
+- [Sequelize] - Modelagem de Dados - ORM
 - [SQLite] - Banco de Dados
 
-E é claro que o próprio GatewayCat é de código aberto com um [repositório público] [gatewaycat] no GitHub.
+E é claro que o próprio GatewayCat é de código aberto com um [Repositório Público][gatewaycat] no GitHub.
 
 ## Instalação
 
@@ -72,7 +72,7 @@ Verifique a implantação navegando até o endereço do servidor em seu navegado
 ```
 
 ## License
-MIT
+ISC
 
 **Software Livre, claro que sim!**
 
